@@ -40,7 +40,7 @@ python demomediapipe.py
 ## 팀원
 
 - [성유진](홍길동의 github link): (데이터 수집 및 전처리, 데모)
-- [김은진](https://github.com/eunbob): (데이터 수집 및 전처리, 모델링 )
+- [김은진](https://github.com/eunbob): (데이터 수집 및 전처리, 모델링)
 - [노지예](https://github.com/kkumtori): (데이터 수집 및 전처리, 모델링)
 - [송현지](https://github.com/kelly062001): (데이터 수집 및 전처리, 데모)
-- [이민하](홍길동의 github link): (데이터 수집 및 전처리, 모델링)
+- [이민하](https://github.com/mlnha)): (데이터 수집 및 전처리, 모델링)
